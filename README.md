@@ -7,3 +7,8 @@ Here are some ideas to get you started:
 -->
 
 I'm Jackson, a Masters of Science in Business Analytics student at The University of Georgia. 
+
+- SQL
+- Python
+- R
+
