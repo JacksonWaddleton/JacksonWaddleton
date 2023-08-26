@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-I'm Jackson, a Masters of Science in Business Analytics student at The University of Georgia. 
+Hello, I'm Jackson. Graduate student with expertise in using data analysis to tranform business results. 
 
-- Querying data using SQL
-- Manipulating, cleaning, and transforming data using Python
-- Developing dashboards in Tableau 
+- Querying data using SQL.
+- Manipulating, cleaning, and transforming data using Python.
+- Developing interactive dashboards in Tableau.
+- Summarizing data using Excel. 
 
