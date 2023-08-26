@@ -16,3 +16,11 @@ Hello, I'm Jackson, a graduate student with expertise in business-focused data a
 
 I began my career in the financial services industry before becoming enamoured with the world of data. Now, I'm honing my technical skills and business acumen via The University of Georgia's Master of Science in Business Analytics program through the top-ranked Terry School of Business. 
 
+## Projects 📚
+
+## Skills 🔨
+
+## Connect with me 🥂
+
+## Follow my blog ✍️
+
