@@ -11,5 +11,6 @@ Hello, I'm Jackson, a graduate student with expertise in business-focused data a
 - Querying data using SQL.
 - Manipulating, cleaning, and transforming data using Python.
 - Developing interactive dashboards in Tableau.
-- Summarizing data using Excel. 
+- Summarizing data using Excel.
+- Communicating insights via presentations. 
 
