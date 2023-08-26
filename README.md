@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Hello, I'm Jackson. Graduate student with expertise in using data analysis to tranform business results. 
+Hello, I'm Jackson. Graduate student with expertise in using data analysis to transform business results. 
 
 - Querying data using SQL.
 - Manipulating, cleaning, and transforming data using Python.
