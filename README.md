@@ -18,7 +18,15 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Projects 📚
 
-[Uber data analysis and visualization - pandas](https://github.com/JacksonWaddleton/uber-pandas-analysis/tree/main)
+[Analyzing Uber ride data with pandas ](https://github.com/JacksonWaddleton/uber-pandas-analysis/tree/main)
+
+[Cleaning and transforming a Spotify dataset with pandas](https://github.com/JacksonWaddleton/spotify-transformation-pandas)
+
+[Visualizing Google stock performance over time with an interactive Excel dashboard](https://github.com/JacksonWaddleton/google-stock-excel)
+
+
+
+
 
 ## Skills 🔨
 
