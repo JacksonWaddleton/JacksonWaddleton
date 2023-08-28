@@ -30,7 +30,13 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Skills 🔨
 
-## Connect with me 🥂
+- Languages: SQL, Python
+- Database: MySQL
+- Visualization: Tableau, Excel
 
-## Follow my blog ✍️
+## Connect with me 🥂
+- [LinkedIn](https://www.linkedin.com/in/jackson-waddleton/)
+
+## Follow my data blog ✍️
+- [Medium](https://medium.com/@jacksonwaddleton)
 
