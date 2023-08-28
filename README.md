@@ -24,6 +24,8 @@ I began my career in the financial services industry before becoming enamoured w
 
 [Visualizing Google stock performance over time with an interactive Excel dashboard](https://github.com/JacksonWaddleton/google-stock-excel)
 
+[PORTFOLIO](https://github.com/JacksonWaddleton/portfolio-guide)
+
 
 
 
