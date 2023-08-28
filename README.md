@@ -18,6 +18,8 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Projects 📚
 
+[Uber data analysis and visualization - pandas](https://github.com/JacksonWaddleton/uber-pandas-analysis/tree/main)
+
 ## Skills 🔨
 
 ## Connect with me 🥂
