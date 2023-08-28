@@ -34,9 +34,9 @@ I began my career in the financial services industry before becoming enamoured w
 - Database: MySQL
 - Visualization: Tableau, Excel
 
-## Connect with me 🥂
+## Connect with me 🤝
 - [LinkedIn](https://www.linkedin.com/in/jackson-waddleton/)
 
-## Follow my data blog ✍️
+## Follow my data blog ✍
 - [Medium](https://medium.com/@jacksonwaddleton)
 
