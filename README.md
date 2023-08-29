@@ -32,7 +32,7 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Skills 🔨
 
-- Languages: SQL, Python
+- Languages: SQL, Python, R
 - Database: MySQL
 - Visualization: Tableau, Excel
 
