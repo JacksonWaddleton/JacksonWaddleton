@@ -27,9 +27,6 @@ I began my career in the financial services industry before becoming enamoured w
 [PORTFOLIO](https://github.com/JacksonWaddleton/portfolio-guide)
 
 
-
-
-
 ## Skills 🔨
 
 - Languages: SQL, Python, R
