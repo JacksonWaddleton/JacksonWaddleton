@@ -18,13 +18,16 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Projects 📚
 
+[Answering airline research questions with pandas and matplotlib](https://github.com/JacksonWaddleton/airlines-python)
+
 [Analyzing Uber ride data with pandas ](https://github.com/JacksonWaddleton/uber-pandas-analysis/tree/main)
 
 [Cleaning and transforming a Spotify dataset with pandas](https://github.com/JacksonWaddleton/spotify-transformation-pandas)
 
+[Diving into 2023 NBA stats using SQL queries](https://github.com/JacksonWaddleton/2023-nba-stats)
+
 [Visualizing Google stock performance over time with an interactive Excel dashboard](https://github.com/JacksonWaddleton/google-stock-excel)
 
-[MORE](https://github.com/JacksonWaddleton/portfolio-guide)
 
 
 ## Skills 🔨
