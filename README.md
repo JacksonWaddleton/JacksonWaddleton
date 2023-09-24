@@ -18,6 +18,8 @@ I began my career in the financial services industry before becoming enamoured w
 
 ## Projects 📚
 
+[NYC Real Estate Analysis using Excel, SQL, and Tableau](https://github.com/JacksonWaddleton/nyc-property-sales)
+
 [Answering airline research questions with pandas and matplotlib](https://github.com/JacksonWaddleton/airlines-python)
 
 [Analyzing Uber ride data with pandas ](https://github.com/JacksonWaddleton/uber-pandas-analysis/tree/main)
